@@ -31,5 +31,4 @@ public class JDamian {
         Integer resultado = 0;
         return resultado;
     }
-
 }
